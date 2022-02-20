@@ -2,7 +2,7 @@
 
 Watermark your images with using image or text. Fast and simple.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/korialstratz/Watermark-with-GUI/blob/master/readme%20images/watermark.png?raw=true)
 
 install requirements.txt
 pip install -r requirements.txt
